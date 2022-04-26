@@ -1,3 +1,5 @@
+Three.js project built in React with self-made Blender car model. The goal of this web app is to understand basic React concepts and the workflow. Along with experience in React, I am also practicing how to make rudimentary meshes in Blender and use them in Javascript.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
